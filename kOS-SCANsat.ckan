@@ -1,0 +1,24 @@
+{
+  "spec_version": "v1.6",
+  "identifier": "kOS-SCANsat",
+  "ksp_version_min": "1.2.0",
+  "name": "kOS-SCANsat",
+  "abstract": "This is an addon for kOS to access the data provided by SCANsat.",
+  "author": "GER-Space",
+  "license": "MIT",
+  "depends": [
+    { "name": "SCANsat" },
+    { "name": "kOS" }
+  ],
+  "resources": {
+    "homepage": "https://github.com/GER-Space/Kos-Scansat",
+    "releases": "https://github.com/GER-Space/Kos-Scansat/releases"
+  },
+  "version": "1.1.0.1",
+  "download": "https://github.com/GER-Space/Kos-Scansat/releases/download/1.1.0.1/kOS-SCANsat-1.1.0.1.zip",
+  "download_size": 13894,
+  "download_hash": {
+    "sha1": "47bf1c4f1b64a86d2b4aab1997d484c65fd34874",
+    "sha256": "973574094c7a0b5a53c24b3f464b662185bc984bd1bc9493bdd5104e22f2384a"
+  }
+}

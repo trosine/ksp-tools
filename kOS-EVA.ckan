@@ -1,0 +1,26 @@
+{
+  "spec_version": "v1.6",
+  "identifier": "kOS-EVA",
+  "ksp_version_min": "1.2.0",
+  "name": "kOS-EVA",
+  "abstract": "This is a collection of KSP&kOS addons which provide the ability of EVAed Kerbals to be controlled by kOS scripts.",
+  "author": "GER-Space",
+  "license": "MIT",
+  "depends": [
+    { "name": "kOS" }
+  ],
+  "recommends": [
+    { "name": "KIS" }
+  ],
+  "resources": {
+    "homepage": "https://github.com/GER-Space/kOS-EVA",
+    "releases": "https://github.com/GER-Space/kOS-EVA/releases"
+  },
+  "version": "0.1.1",
+  "download": "https://github.com/GER-Space/kOS-EVA/releases/download/0.1.1/kOS-EVA-0.1.1.zip",
+  "download_size": 83689,
+  "download_hash": {
+    "sha1": "5af3326eb94b2162a51ebc44993951182c8b81d3",
+    "sha256": "100a99d37e57714cdc3136c33c65b0e384221df5c7af4a418785483a17e641c3"
+  }
+}
